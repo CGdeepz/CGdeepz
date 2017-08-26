@@ -26,6 +26,13 @@
             <artifactId>jetty-webapp</artifactId>
             <version>7.6.0.v20120127</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.eclipse.jetty/jetty-util -->
+<dependency>
+    <groupId>org.eclipse.jetty</groupId>
+    <artifactId>jetty-util</artifactId>
+    <version>9.4.6.v20170531</version>
+</dependency>
+
         <dependency>
             <groupId>com.sun.jersey</groupId>
             <artifactId>jersey-server</artifactId>
